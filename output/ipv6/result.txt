@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-03 19:09:43,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-04-05 19:03:40,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -12,6 +12,8 @@ CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775812647&major_anchor_level=common&sign=a16a13163e5a1bb150e2fdd5448bc59d&t_id=037-2026040317172716CCE7A11D64BD3CD9C0-IOLuIy$订阅源
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775812647&major_anchor_level=common&sign=a16a13163e5a1bb150e2fdd5448bc59d&t_id=037-2026040317172716CCE7A11D64BD3CD9C0-IOLuIy$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14%E5%B0%91%E5%84%BF$订阅源
@@ -21,6 +23,7 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅�
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91$订阅源
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773100588&major_anchor_level=common&sign=0a2a65437075fad16a3b5c028fce3936&t_id=037-202603030756275F53082918C89A46E14D-oDewtG$订阅源
 CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 
 💰央视付费频道,#genre#
@@ -156,8 +159,12 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 江苏体育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2$订阅源
 江苏城市,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93$订阅源
 江苏教育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2$订阅源
+江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=ee3b6643c904671f992ce193c8875e102a703bdd2d7b88f854af78bc402ca736e4d33eee2c0d605f8c209b224a0c845cf9506a6637b7797c3a6b140c2d2bbb3b2a9e2dc6658d0df0c0e3e3844360944f37&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
+江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=ee3b6643c904671f992ce193c8875e102a703bdd2d7b88f854af78bc402ca736e4d33eee2c0d605f8c209b224a0c845cf9506a6637b7797c3a6b140c2d2bbb3b2a9e2dc6658d0df0c0e3e3844360944f37&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 淮安新闻综合,https://iptv.catvod.com/live.php?id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88$订阅源
 溧水新闻综合,https://iptv.catvod.com/live.php?id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88$订阅源
+连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?userid=5559462299&sign=e9f09835b85408183c78bc39fa6e64a66ca93307c22cbf2484b380cd8d2093f0f08cf451c4268c7de12071cf3d8701752bf01f4e73bd4911eca25e8fe7935b6807996637af0b1614422a9aa3df8c70fc30&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
+镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=54a78b393609cf950050beea026f868d7489fa0b3d9068bbcf05dbb8a45c802b493e4157371ff39550b19933bc4f654c1a16de24ec6cdd9c9345b414d8a33517d29936d7b57d22973a30f9b7f9e8ceb3ce&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 
 ☘️辽宁频道,#genre#
 
@@ -182,8 +189,6 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
@@ -213,7 +218,8 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8$订阅源
 
 ☘️河北频道,#genre#
-邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8$订阅源
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8$订阅源
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8$订阅源
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8$订阅源
 邯郸科教,https://jwcdnqx.hebyun.com.cn/zb/hdkj/1500k/tzwj_video.m3u8$订阅源
 衡水公共,http://ls.qingting.fm/live/2810.m3u8$订阅源
@@ -251,6 +257,8 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8$订阅源
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8$订阅源
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd$订阅源
@@ -279,8 +287,6 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 内蒙古经济生活,https://ls.qingting.fm/live/1885/64k.m3u8$订阅源
 
 ☘️云南频道,#genre#
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund$订阅源
 昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8$订阅源
 昆明科学教育,http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8$订阅源
@@ -294,10 +300,10 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 
 🌊港·澳·台,#genre#
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
@@ -337,6 +343,10 @@ CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413$订阅源
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
@@ -347,3 +357,9 @@ CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅源
 
 🏛经典剧场,#genre#
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790$订阅源
+天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816$订阅源
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861$订阅源
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081$订阅源
+封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164$订阅源
