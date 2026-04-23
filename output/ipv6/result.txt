@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 19:35:46,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-04-23 19:38:00,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -23,6 +23,7 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅�
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91$订阅源
+CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
@@ -184,6 +185,8 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
